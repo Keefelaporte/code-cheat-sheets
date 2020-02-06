@@ -8,4 +8,6 @@ Create git.ignore for modules,
 Create a config folder with .env init and a sequelize.js
 Create a Models folder for two .js files
 Create your index.js with const (express = require('express'),('./models'),('body-parser'), app = express()
+Create app.listen(1337, () => { console.log("Started")})
+
 Go in the terminal and git status, add ., commit "with message here",push (now project in the hub)
