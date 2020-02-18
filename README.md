@@ -14,6 +14,7 @@ In the index.js create a app.post subscribe you add res.status and .send with me
 Create app.listen(1337, () => { console.log("Started")})
 Create app.post for subscribe, unsubscribe, feedback, contact email
 Open/Download Postman and test the connection
-Open MySql workbench(
+Open MySql workbench create a schema and name your table and fields/columns(schema name and table name should be different)
+
 Run nodemon in terminal to test 
 Go in the terminal and git status, add ., commit "with message here",push (now project in the hub)
